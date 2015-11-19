@@ -1,5 +1,5 @@
 use v6;
-unit package Operators::Math::Superscripts:version<1.001001>;
+unit package Operators::Math::Superscripts:version<1.001002>;
 
 multi postfix:<⁰> ($n) is export { $n ** 0 }
 multi postfix:<¹> ($n) is export { $n ** 1 }
