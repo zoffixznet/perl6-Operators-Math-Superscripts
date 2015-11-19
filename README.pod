@@ -110,7 +110,7 @@ C<U+2070 (e2 81 b0): SUPERSCRIPT ZERO [⁰]>. Raise to zeroth power.
 C<U+207B (e2 81 bb): SUPERSCRIPT MINUS [⁻] U+00B9 (c2 b9): SUPERSCRIPT ONE [¹]>.
 Raise to negative first power.
 
-=head2 C⁻²>
+=head2 C<⁻²>
 
     say 10⁻²; # 0.01
 
