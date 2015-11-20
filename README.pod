@@ -1,6 +1,6 @@
 =encoding utf8
 
-=for HTML <a href="https://travis-ci.org/zoffixznet/perl6-Operators-Math-Superscripts"><img src="https://travis-ci.org/zoffixznet/perl6-Color.svg?branch=master"></a>
+=for HTML <a href="https://travis-ci.org/zoffixznet/perl6-Operators-Math-Superscripts"><img src="https://travis-ci.org/zoffixznet/perl6-Operators-Math-Superscripts.svg?branch=master"></a>
 
 =head1 NAME
 
