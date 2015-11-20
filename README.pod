@@ -32,8 +32,8 @@ Operators::Math::Superscripts - Superscript numerical operators for raising to p
 
 =head1 DESCRIPTION
 
-This module allows you use Unicode superscript numbers to raise stuff into
-powers
+This module allows you to use Unicode superscript numbers to raise stuff
+into powers
 
 =head1 OPERATORS
 
