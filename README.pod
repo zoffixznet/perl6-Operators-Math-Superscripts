@@ -6,6 +6,10 @@
 
 Operators::Math::Superscripts - Superscript numerical operators for raising to powers
 
+=head1 DEPRECATED
+
+B<NOTE: superscript powers have now been added to Perl 6 core, obsoleting this module>.
+
 =head1 SYNOPSIS
 
     use Operators::Math::Superscripts;
